@@ -1,8 +1,8 @@
 # BASH New System Setup
 
 ## Create dirs for git aware prompt and Vundle
-### mkdir ~/.bash
-### mkidir -p ~/.vim/bundle
+mkdir ~/.bash
+mkidir -p ~/.vim/bundle
 
 ## Clone git aware prompt
 git clone git://github.com/jimeh/git-aware-prompt.git ~/.bash
